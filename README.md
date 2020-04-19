@@ -1,4 +1,6 @@
 # TicketToRideConsole
+READ THIS IN RAW VIEW
+
 Ticket to Ride Console. Code Transported from Private Repository. 
 Email me at pj16macf@siena.edu if you would like to see the commit history.
 A group project for Advanced Programming in the Spring of 2019.
